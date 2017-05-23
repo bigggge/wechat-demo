@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+start.sh
+.avoscloud
+.leancloud
+
+# VIM
+*~
+*.swp
+
+.idea
+
+config.js
+logs
+README-Sample.md
